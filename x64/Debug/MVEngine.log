@@ -1,0 +1,58 @@
+﻿  Animation.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Animation.cpp(20,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\MVEngine\Animation.cpp(20,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Animator.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Button.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Character.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  CollisionBox.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(4,1): error C2511: 'CollisionBox::CollisionBox(float,float,sf::Vector2i,sf::Vector2i)': overloaded member function not found in 'CollisionBox'
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.h(7): message : see declaration of 'CollisionBox'
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(5,2): error C2065: 'collider': undeclared identifier
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(6,2): error C2065: 'collider': undeclared identifier
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(8,2): error C2065: 'collider': undeclared identifier
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(9,2): error C2065: 'collider': undeclared identifier
+  Componet.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Entity.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  GameObject.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Manager.cpp
+  PhysicsBody.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+C:\Users\Daniel\Documents\GitHub\MVEngine\PhysicsBody.cpp(6,101): error C2664: 'CollisionBox::CollisionBox(float,float,sf::Vector3i,sf::Vector3i)': cannot convert argument 3 from 'sf::Vector2i' to 'sf::Vector3i'
+C:\Users\Daniel\Documents\GitHub\MVEngine\PhysicsBody.cpp(6,59): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.h(12,2): message : see declaration of 'CollisionBox::CollisionBox'
+  Text.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Tile.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  TileManager.cpp
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
+C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+  Generating Code...
