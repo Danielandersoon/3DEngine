@@ -1,58 +1,49 @@
-﻿  Animation.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Animation.cpp(20,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Daniel\Documents\GitHub\MVEngine\Animation.cpp(20,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Animator.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  Button.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  Character.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  CollisionBox.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(4,1): error C2511: 'CollisionBox::CollisionBox(float,float,sf::Vector2i,sf::Vector2i)': overloaded member function not found in 'CollisionBox'
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.h(7): message : see declaration of 'CollisionBox'
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(5,2): error C2065: 'collider': undeclared identifier
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(6,2): error C2065: 'collider': undeclared identifier
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(8,2): error C2065: 'collider': undeclared identifier
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.cpp(9,2): error C2065: 'collider': undeclared identifier
-  Componet.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  Entity.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  GameObject.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  Manager.cpp
-  PhysicsBody.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-C:\Users\Daniel\Documents\GitHub\MVEngine\PhysicsBody.cpp(6,101): error C2664: 'CollisionBox::CollisionBox(float,float,sf::Vector3i,sf::Vector3i)': cannot convert argument 3 from 'sf::Vector2i' to 'sf::Vector3i'
-C:\Users\Daniel\Documents\GitHub\MVEngine\PhysicsBody.cpp(6,59): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
-C:\Users\Daniel\Documents\GitHub\MVEngine\CollisionBox.h(12,2): message : see declaration of 'CollisionBox::CollisionBox'
-  Text.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  Tile.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
-  TileManager.cpp
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(17,1): error C2535: 'sf::CubeMesh<T>::CubeMesh(void)': member function already defined or declared
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(15): message : see declaration of 'sf::CubeMesh<T>::CubeMesh'
-C:\Users\Daniel\Documents\GitHub\MVEngine\Constants.h(27): message : see reference to class template instantiation 'sf::CubeMesh<T>' being compiled
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MVEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.cpp
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(14,21): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(15,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(15,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(16,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(6,9): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(7,9): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(483,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(491,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(14,21): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(15,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(15,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\3DEngine\polygon.h(16,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
   Generating Code...
+C:\Users\Daniel\Documents\GitHub\3DEngine\Engine.cpp(270): warning C4715: 'Eng::Engine::Triangle_ClipAgainstPlane': not all control paths return a value
+Source.obj : error LNK2005: "void __cdecl Eng::DrawLine(int,int,int,int,int,class sf::Color,class sf::RenderWindow *)" (?DrawLine@Eng@@YAXHHHHHVColor@sf@@PEAVRenderWindow@3@@Z) already defined in Engine.obj
+Source.obj : error LNK2005: "void __cdecl Eng::DrawTriangle(int,int,int,int,int,int,int,class sf::Color,class sf::RenderWindow *)" (?DrawTriangle@Eng@@YAXHHHHHHHVColor@sf@@PEAVRenderWindow@3@@Z) already defined in Engine.obj
+C:\Users\Daniel\Documents\GitHub\3DEngine\x64\Debug\3DEngine.exe : fatal error LNK1169: one or more multiply defined symbols found
